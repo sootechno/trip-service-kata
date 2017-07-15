@@ -28,3 +28,5 @@ public class TripService {
 		return TripDAO.findTripsByUser(user);
 	}
 }
+
+//

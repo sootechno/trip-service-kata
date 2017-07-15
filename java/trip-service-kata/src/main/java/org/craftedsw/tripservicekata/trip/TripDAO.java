@@ -16,3 +16,4 @@ public class TripDAO {
 		return TripDAO.findTripsByUser(user);
 	}
 }
+//

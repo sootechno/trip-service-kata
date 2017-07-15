@@ -12,3 +12,4 @@ public class TripDAOTest {
 		td.tripsBy(new User());
 	}
 }
+//

@@ -21,5 +21,5 @@ public class CollaboratorCallException extends RuntimeException {
 		super(cause);
 	}
 
-	
+	//
 }
